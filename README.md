@@ -1,7 +1,7 @@
 # hello-world
 my new repository
-public class javatest{
+pubilc class javatest{
   public static void main(String[] args) {
-    System.out.printlm("Hello World!");
+    System.out.println("HelloWorld!");
   }
 }
