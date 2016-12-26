@@ -1,5 +1,7 @@
 # hello-world
 my new repository
-class javatst{
-  System.out.printlm("Hello World!");
+public class javatst{
+  public static woid main(String[] args) {
+    System.out.printlm("Hello World!");
+  }
 }
